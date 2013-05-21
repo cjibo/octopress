@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why so much Speach?  Don't you guys have kids?"
+title: "Why so much Speech?  Don't you guys have kids?"
 date: 2013-05-21 16:05
 comments: true
 categories: UX, 

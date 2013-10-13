@@ -1,3 +1,7 @@
+## cjibo's Website
+
+This is my repository for my content on my blog. I forked Octopress from imathis and am keeping my site under source control here. Below is information regarding Octopress but I recommend you fork it or clone it from the original repo.
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.

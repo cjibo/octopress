@@ -10,12 +10,15 @@ Over the last year I have been trying to get a grip on my digital life. I am a h
 
 ## Physical Tools
 
+![Alt My Digital Tools and Paper versions](http://farm8.staticflickr.com/7347/10254778024_cdcbc9e73f_z.jpg)
+
 I use multiple technologies and even some not so high tech tools today. Below is a list of my current tools.
-	* Multiple Moleskine Notebooks
-	* Galaxy Note II (Soon to be replaced with iPhone 5s)
-	* Nexus 7 (2013 Edition)
-	* iPad 2 (with Logitech Slim Keyboard a must)
-	* Macbook Pro Retina
+
+* Multiple Moleskine Notebooks
+* Galaxy Note II (Soon to be replaced with iPhone 5s)
+* Nexus 7 (2013 Edition)
+* iPad 2 (with Logitech Slim Keyboard a must)
+* Macbook Pro Retina
 
 I probably should talk about the software tools I use to keep my digital desk organized as well. Some I have been using for quite a long time while others I just picked up as of yesterday.
 

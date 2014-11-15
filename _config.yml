@@ -2,19 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-<<<<<<< HEAD
 url: http://cjibo.com
 title: cjibo's  Blog
 subtitle: cjibo Do Something.
 author: Curtis Allen Gibeaut Jr.
 simple_search: http://google.com/search
-=======
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.google.com/search
->>>>>>> c9e0078d65957180db6614a370a75ba881775e40
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
